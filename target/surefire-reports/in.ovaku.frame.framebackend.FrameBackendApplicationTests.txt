@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.ovaku.frame.framebackend.FrameBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.706 s - in in.ovaku.frame.framebackend.FrameBackendApplicationTests
